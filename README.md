@@ -6,4 +6,4 @@ just droppin my images
 ![Screenshot 2025-05-21 165807](https://github.com/user-attachments/assets/49a4f22e-f9d3-498f-9ca5-5a291334e88c)
 ![Screenshot 2025-05-21 173148](https://github.com/user-attachments/assets/e3d44429-4fec-4334-93a4-fe8e0a3cc7b2)
 ![Screenshot 2025-05-21 164729](https://github.com/user-attachments/assets/f966d80f-22f9-45e2-a6d4-deaf0f145bae)
-<img src="https://github.com/user-attachments/assets/7b7839d0-7dab-4f3b-873a-c51b6d79faa2" alt="Alt text" width="300" height="200">
+
